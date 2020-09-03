@@ -1,1 +1,154 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T08:58:51.531Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" version="13.6.5" etag="Qj4bWfyWGyMLXB4Cwclz" type="github"><diagram id="861Qlp4WnC5EKTWVeKDn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-03T02:25:09.060Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="JInZ84TpbH1DQe5YaDYW" version="13.6.5" type="github">
+  <diagram id="861Qlp4WnC5EKTWVeKDn" name="Page-1">
+    <mxGraphModel dx="1298" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-5" target="KUwm9AszKlLBt9omMtEJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-2" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-5" target="KUwm9AszKlLBt9omMtEJ-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-4" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-3" vertex="1" connectable="0">
+          <mxGeometry x="-0.3364" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-5" value="feature列表中是否有不在表1的feature" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="460" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-7" value="道具包append标记V9_16" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="970" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-28" target="KUwm9AszKlLBt9omMtEJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-35" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-8" vertex="1" connectable="0">
+          <mxGeometry x="-0.3857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-9" value="当前道具资源包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="758.5" y="210" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-10" value="下一个道具资源包" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-11" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="KUwm9AszKlLBt9omMtEJ-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1125" y="1370" as="sourcePoint" />
+            <mxPoint x="1190" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-16" target="KUwm9AszKlLBt9omMtEJ-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-12" vertex="1" connectable="0">
+          <mxGeometry x="-0.1476" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="KUwm9AszKlLBt9omMtEJ-16" target="KUwm9AszKlLBt9omMtEJ-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="835" />
+              <mxPoint x="680" y="1165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.1702" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-16" value="feature列表是否有在表2的feature" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="780" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-18" target="KUwm9AszKlLBt9omMtEJ-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-18" value="道具包append标记V9_16, V1_1, V16_9" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="765" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KUwm9AszKlLBt9omMtEJ-20" target="KUwm9AszKlLBt9omMtEJ-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-20" value="道具包append标记H16_9, H1_1" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="765" y="980" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KUwm9AszKlLBt9omMtEJ-25" target="KUwm9AszKlLBt9omMtEJ-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-22" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-21" vertex="1" connectable="0">
+          <mxGeometry x="-0.3971" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="KUwm9AszKlLBt9omMtEJ-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="1280" />
+              <mxPoint x="1130" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-24" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.6455" y="47" relative="1" as="geometry">
+            <mxPoint x="47" y="48" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-25" value="feature列表是否有互斥feature对在表3中" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1110" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="1165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-27" value="道具包clear 所有标记，并append&amp;nbsp; V9_16" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1125" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="334.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-28" value="是否位于游戏类别下？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="280" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-9" target="KUwm9AszKlLBt9omMtEJ-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="811.5" y="230" as="sourcePoint" />
+            <mxPoint x="805.0000000000002" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-32" value="道具包append标记V9_16" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="970" y="295" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KUwm9AszKlLBt9omMtEJ-28" target="KUwm9AszKlLBt9omMtEJ-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="334.9999999999999" as="targetPoint" />
+            <mxPoint x="880.0000000000002" y="334.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KUwm9AszKlLBt9omMtEJ-34" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KUwm9AszKlLBt9omMtEJ-33" vertex="1" connectable="0">
+          <mxGeometry x="-0.1185" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
