@@ -1,1 +1,326 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T06:15:23.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="3gFYCb61UK6dOhcvLq6f" version="13.6.6" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFZMMpRh6Q67hfX2Ekg5GN8SVIqZWHDNoSAu+12HvpAhP4sHj7XKBl8pXEOJsAK36bwH8nAHi+xf5Xhk1tgBDWhnmRxrXJbgwv6W/Mjfy8+SqNcbnXkBKS0XS5b4xInuOI7tlQUZD1frMZyfavukRzLBleIpTJ1v/SmCbcaltWU/EFp/OEXzpwecUrin7OC7LK+fUmAM62f3X1Aom+ePsyQTFZt0zwcQIfCkJofbR4e8BZ5Vrhtvq8pyO1u/sucE6HnOD72ItCf2aHXoyCAH7iPfxC2Yr74htzPL9ZuhEOKtfpIkM5K00TusiY0WaHUZJm8TPakFV18ZIyZ4jSlJUKypFmNwWnWy/h6j6q0s4RVSFDrzib7lz5QDJSsKqcbC9Y0oL83OFSXXdGcvqEFmlW0e0HLmKUI27mVwxYEWXpPGfHEfMNZv1NZWeJX48Lit9aJu68z5gsMC02rAmvFUTnPHd4cd2QJvS4LWnxxRd8QZyo813PDVjsgOM1EDsgYfdcQQQseyB+Ekayh44S5rTLuI+A7CP7oI/ge/gokHwk+aYhZuWTdZJS/LJEUVW7ZtGu4zIteHuUCoOJDPaJ7LkySNYBkLz3wCg0GA3ByHZVgiRStUGpgxLcR8n1DsS70VACngQKjpnU4UVS0ITMSY6yx8Y63YetBdEpVFj2+KdSXx3bU1rdcJ3mWxnGZWWcx+KMKENlmUbfkzSvK/hpdl1qnfQ/pnTDy2hFCTM1P+SZkOUunV1Ck8EprySrIsL9eYb93Dk+2g/vqEKkl1kFzhBNf+2L09vyxDc8UcITwYFeooS35sn2VOZQtGk1WJI0p2Wr52+VoZV+nMP55+lIe7+3OTuob6Ah7O6XXMjhwHBYCYfDIbEOaBPrRII2PBk71kEVse5ynsjDZsOTUXjifSyeyAMfw5MxeCLGwx9BO3WmV8LOtGx/c+j3N/d7m99eaYnZfMN4HTOo7eoTGkNDFH1DI4DaEMUxmlwRUYZEFOCoIopt+a/I97CDIXRnYfjJaHJFmccfknkCbXhiNLmieAKG8OTm8eQiUe55HVVu98vsbnvX7W/vWL3tr9blEumNLBd3OQHQ2v5d/DjUxUP9jfqkKJvmkMjl3D25dI6o1l1E1GDkgOoazqtRm0OGr7ePjRdxvsNJ75QoCK9sb78z582OEUWcd7TWA/LcXt2nvNtUHnqp2G0qajsZRu3uU7Hb42/fNAfPhQl2g6KM0mh75pxjxJaHVwqJDYFWxAb3QWznbJi02rMrx2wZpYQsXlflaYR0fH/jerw6e9wOvdERjAaXHInMQ3XgoVK8xdqscd5eMIvJpl7BPGhiRJ81TveYrpBn1hTqCifQSlfITvsrQ6B7LkzwdJ4aUVd496YrzsaroyvggcdqPF3hm4dqyEO1W79T81DdyWuQ16KkWP0NeQ3ShL723I7KIRU0q5iaLJGLpbVehc8b9St8Lj40UPjQrBfefig4iChD3hgRskcHophFNkVEGfKuosjpGhBFHljxOQM50iicM/C6s6Zq5wzu5Bsv3rkwaTW8AXeyFHo1SoFSlIBB6QMMQoes6xmUDg49x0MJmm+s3F70CSHdK/qGfIxH5CMNRB80HzJRQ5Tdt0Z7iQK0IYo8j89HB/LwUuHoILB0Gh2AO9lU4Z8L04i5khWbT9zWe5abzwjDxz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-20T11:15:23.195Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="sf2NhpqddcbDzvS6d_S5" version="13.6.6" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="3245" dy="1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-2" value="effect_sdk" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-3" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-5" value="VE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-6" value="Lab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-10" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="OM-2J8mVCJK_r0Ni2DIO-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="350" as="sourcePoint" />
+            <mxPoint x="470" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-11" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="370" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-13" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="350" as="sourcePoint" />
+            <mxPoint x="620" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-14" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="350" as="sourcePoint" />
+            <mxPoint x="820" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-15" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-17" value="" style="endArrow=none;dashed=1;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="350" as="sourcePoint" />
+            <mxPoint x="40" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="120" as="sourcePoint" />
+            <mxPoint x="370" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-19" value="进入拍摄界面" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-18">
+          <mxGeometry x="-0.3936" y="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="150" as="sourcePoint" />
+            <mxPoint x="620" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-21" value="bef_effect_composer_set_mode(true)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-20">
+          <mxGeometry x="-0.3936" y="1" relative="1" as="geometry">
+            <mxPoint x="64.17" y="-29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-22" value="默认开启 composer 使能位" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="494.99666666666656" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="390" width="220" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;RenderManager::processTexture&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-27" target="OM-2J8mVCJK_r0Ni2DIO-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-27" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;对 composer 所有节点 effect 执行 handleUpdate() 注册事件&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-29" target="OM-2J8mVCJK_r0Ni2DIO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-29" target="OM-2J8mVCJK_r0Ni2DIO-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-29" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;prepareEffectResV2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="570" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-99" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-30" target="OM-2J8mVCJK_r0Ni2DIO-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1170" />
+              <mxPoint x="519" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-30" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;buildChainV2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="690" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-33" target="OM-2J8mVCJK_r0Ni2DIO-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-33" target="OM-2J8mVCJK_r0Ni2DIO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-33" value="&lt;font face=&quot;helvetica&quot;&gt;_checkComposerEffectResExistOrLoaded&lt;br&gt;检查Composer 是否发生Protocol 变更，是则置脏渲染链重构标志位&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-34" target="OM-2J8mVCJK_r0Ni2DIO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-34" target="OM-2J8mVCJK_r0Ni2DIO-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;_buildOrUpdateComposerEffects&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;构造节点或更新强度&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="550" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-35" target="OM-2J8mVCJK_r0Ni2DIO-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-35" value="&lt;font face=&quot;helvetica&quot;&gt;_removeUnusedComposerEffects&lt;br&gt;删除 Composer 无效节点&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="670" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-64" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-36" target="OM-2J8mVCJK_r0Ni2DIO-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-36" value="&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;checkResExistOrLoaded&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;对 Composer 包含的所有 effect -&amp;gt; feature 项逐一遍历上述函数，下沉到具体 xxxfeature 中根据各自有效性判断逻辑返回 resState，最后 “ |= ”综合所有 resState项，返回 Composer 状态。&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-37" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;resState 状态：&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_NONE： 空&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_INIT：初始化&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_LOADING： 加载中&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_SUC：成功&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_FAIL：失败&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_PROTOCOL_CHANGED：protocol 发生变更&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;EFFECT_RES_STATE_REMOVE_CHANGED： 表示将被删除&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1355" y="345" width="400" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-38" target="OM-2J8mVCJK_r0Ni2DIO-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-49" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-43">
+          <mxGeometry x="-0.0632" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-38" target="OM-2J8mVCJK_r0Ni2DIO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-51" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-50">
+          <mxGeometry x="-0.3357" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-38" value="&lt;font face=&quot;helvetica&quot;&gt;1.&lt;br&gt;_checkComposerEffectAddOrRemoved || Composer 脏逻辑标志&lt;br&gt;检查是否有新增或删除的 Composer&amp;nbsp; 节点或者 Composer 脏逻辑是否为true&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="725" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-56" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-39" target="OM-2J8mVCJK_r0Ni2DIO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-39" target="OM-2J8mVCJK_r0Ni2DIO-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-69" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-68">
+          <mxGeometry x="0.4367" relative="1" as="geometry">
+            <mxPoint x="-13.45" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-39" value="&lt;font face=&quot;helvetica&quot;&gt;2.&lt;br&gt;_checkComposerEffectNeedReload&lt;br&gt;检查是否需要重载 Composer&amp;nbsp; 节点&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="910" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-40" target="OM-2J8mVCJK_r0Ni2DIO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-40" value="&lt;font face=&quot;helvetica&quot;&gt;_checkComposerEffectAddOrRemoved：&lt;br&gt;&lt;div&gt;&lt;span&gt;根据m_composerEffectPaths, m_composerEffectPathsLast, m_composerEffects 三个容器的对比判断是否有节点新增或删除&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;m_composerEffectPaths : 当前 Composer 节点路径数组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;m_composerEffectPathsLast: 上一次设置的 Composer 节点路径数组&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;m_composerEffects: 当前Composer 节点数组&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1105" y="700" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-41" value="&lt;font face=&quot;helvetica&quot;&gt;Composer 脏逻辑置true 发生在节点下发接口 setCompoerEffectNodes 中，表示有 Composer 节点变更行为，需要重构渲染链&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="830" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-42" target="OM-2J8mVCJK_r0Ni2DIO-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="778" />
+              <mxPoint x="2240" y="850" />
+              <mxPoint x="1900" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-42" value="&lt;font face=&quot;helvetica&quot;&gt;渲染链重构标志置脏，等待重构；&lt;br&gt;遍历m_composerEffectPaths，若存在未构造节点则进行 buildEffect 构造；&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="732.5" width="400" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-48" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-41" target="OM-2J8mVCJK_r0Ni2DIO-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="895" as="sourcePoint" />
+            <mxPoint x="1280" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-54" target="OM-2J8mVCJK_r0Ni2DIO-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-58" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-57">
+          <mxGeometry x="0.525" relative="1" as="geometry">
+            <mxPoint y="-20.93" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-54" target="OM-2J8mVCJK_r0Ni2DIO-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-75" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-74">
+          <mxGeometry x="0.2066" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-54" value="&lt;font face=&quot;helvetica&quot;&gt;3.&lt;br&gt;_checkComposerEffectNeedUpdateParam&lt;br&gt;检查是否需要更新 Composer&amp;nbsp; 节点强度&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1080" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-55" target="OM-2J8mVCJK_r0Ni2DIO-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-79" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OM-2J8mVCJK_r0Ni2DIO-78">
+          <mxGeometry x="0.2286" y="-2" relative="1" as="geometry">
+            <mxPoint x="-3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1800" y="1370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-55" value="&lt;font face=&quot;helvetica&quot;&gt;4.&lt;br&gt;_checkComposerEffectViewportChanged&lt;br&gt;检查是否需要更新 Composer&amp;nbsp; 节点视口&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1220" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-66" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-65" target="OM-2J8mVCJK_r0Ni2DIO-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-65" value="&lt;font face=&quot;helvetica&quot;&gt;检查 m_composerEffectPathsToReload 容器size是否非空，是则说明需要重载 composer；该容器的 &quot; = &quot; 设置发生在下发接口 reloadComposerEffectNodes 中，表示需要重载。&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;m_composerEffectPathsToReload&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;：需要重载的节点路径数组&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="930" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-67" target="OM-2J8mVCJK_r0Ni2DIO-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="980" />
+              <mxPoint x="2240" y="1030" />
+              <mxPoint x="1900" y="1030" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-67" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&amp;nbsp;1. 渲染链重构标志置脏，等待重构；&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;2. 遍历&lt;/font&gt;&lt;span&gt;m_composerEffectPathsToReload 容器，对其中已构建的节点进重新buildEffect构造，对未构建的则不存在重载这一说；&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;&amp;nbsp;3. 清空&lt;/font&gt;&lt;span&gt;m_composerEffectPathsToReload容器.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="900" width="420" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-71" target="OM-2J8mVCJK_r0Ni2DIO-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="1150" />
+              <mxPoint x="2240" y="1185" />
+              <mxPoint x="1900" y="1185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-71" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;遍历 m_composerEffectKeyValues 容器，对当前path-tag-value&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1. 若path 节点已构建，广播一次 handleComposerUpdateNodeEvent 事件供 lua 回调，然后更新该节点所有下属 features 的强度，最后 erase 当前遍历元素；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2. 若path节点未构建，但在B槽区找到同名节点，广播事件并更新对应B区节点强度，最后erase 当前遍历元素；&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;3. 其他，continue；&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1070" width="520" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;shape=link;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-72" target="OM-2J8mVCJK_r0Ni2DIO-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-72" value="&lt;font face=&quot;helvetica&quot;&gt;检查 m_composerEffectKeyValues 容器size是否非空，是则说明需要更新 composer 节点强度；该容器的 “ emplace_back ” 设置发生在下发接口 updateComposerEffectNodes 中，表示需要更新强度。&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;m_composerEffectKeyValues&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;：需要更新强度的节点 path-tag-value 数组&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="1070" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-77" target="OM-2J8mVCJK_r0Ni2DIO-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1940" y="1380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-77" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;/div&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;遍历 m_composerEffects 容器，更新已构建节点的 viewport&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="1220" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-82" value="return true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-83" value="&lt;font face=&quot;helvetica&quot;&gt;对比当前帧 viewport 和已构建m_compserEffects 容器中的节点viewport&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="1220" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;shape=link;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-83" target="OM-2J8mVCJK_r0Ni2DIO-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="1270" as="sourcePoint" />
+            <mxPoint x="1610" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-85" target="OM-2J8mVCJK_r0Ni2DIO-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-85" value="&lt;font face=&quot;helvetica&quot;&gt;1. 设置需保留的composer节点数组keyToReserve，为 m_composerEffectPaths 和 m_composerEffectPathsLast 中的节点路径并集；&lt;br&gt;&lt;br&gt;2. 遍历当前已构建的节点容器 m_composerEffects ：&lt;br&gt;若当前元素不在 keyToReserve 数组中，则需要删除当前元素节点；&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="800" width="370" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-90" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;根据被删除节点信息，维护 Composer 所有节点中的某个 effect 的 某个 feature(main feature) 和其他 effect 内的feature(sub feature) 之间的主次挂接关系信息 - mergeInfo&amp;nbsp;&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="620" y="970" width="370" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shape=link;dashed=1;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-92" target="OM-2J8mVCJK_r0Ni2DIO-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-92" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;mergeInfo：（feature 粒度）&lt;br&gt;&lt;/span&gt;&lt;font face=&quot;helvetica&quot;&gt;描述了多Effect共存关系中，某个 feature 是否是 main feature 以及其它的 merge 状态信息；&lt;br&gt;被用于 Memoji 中。&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="970" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.48;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OM-2J8mVCJK_r0Ni2DIO-94" target="OM-2J8mVCJK_r0Ni2DIO-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-94" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;1.&lt;/span&gt;&lt;/div&gt;&lt;font face=&quot;helvetica&quot;&gt;_checkComposerEffectResExistOrLoaded() == EFFECT_RES_STATE_SUC&lt;br&gt;检查 Composer 当前批次设置的节点是否构造完全：&lt;br&gt;1. 若是， 则只保留当前批次生效节点，去除历史节点&lt;br&gt;2. 若否， 则仍然保留上一次设置的 Composer 节点；&lt;br&gt;&lt;br&gt;这样做的原因是因为某些节点从设置到构造成功需要经过多帧，当新节点还未构造成功就每帧删除旧节点会导致当前帧缺少显示内容出现“Composer 空白”，所以为了“零空白” 衔接新旧节点切换，在新节点还未完全构造成功之前，保持旧节点。&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1250" width="520" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-95" value="1. 将A槽区所有 buildIn feature 压入 m_RenderChainBulidInCache 容器；&lt;br&gt;&lt;br&gt;2. 将B槽区 feature 中属于 buildIn 部分压入 m_RenderChainActiveCache 容器，其他feature直接压入 渲染链 m_RenderChain；&lt;br&gt;&lt;br&gt;3. 遍历 m_RenderChainActiveCache 容器，对其中元素，若在&lt;br&gt;m_RenderChainBuildInCache 容器中有相同 type, 则根据互斥逻辑选择加入哪个到 renderChain, 若无相同type，则直接加入 renderChain;&lt;br&gt;&lt;br&gt;4. 对C槽区的每一个已完全构造节点，将其所有下属feature 加入 m_Renderchain（除了滤镜feature不加入，需要单独处理，因为它与A/B槽区相同 feature 存在必然互斥）&lt;br&gt;&lt;br&gt;5. 对A槽区m_RenderChainBuildInCache 容器中的buildin feature，若经过第3步的互斥逻辑后仍“有效”则直接加入m_RenderChain， 若无效则说明被斥，存在B槽区同名 feature已在第3步加入渲染链，直接跳过;&lt;br&gt;&lt;br&gt;6. m_RenderChain 添加 m_terminalFeature;&lt;br&gt;&lt;br&gt;7. 对m_RenderChain 所有 feature 按照 zorder 排序；&lt;br&gt;&lt;br&gt;8. 构建 m_RenderChain 中前后 target 的 link 关系，并对每一个target 设置当前 viewport&lt;br&gt;&lt;br&gt;9. 对所有m_RenderChain 链点， 执行mergeRequirement 获取总算法位，并更新 EffectManager 管理的算法容器 effectAlgorithmPairs 和 featureAlgorithmPairs;&lt;br&gt;&lt;br&gt;10. 执行 onSwitchEnd ，传递总算法位并发送 handleClientMsgEvent&lt;span&gt;&amp;nbsp;事件&lt;br&gt;&lt;br&gt;11. 渲染链重构脏逻辑置 false&lt;br&gt;&lt;br&gt;12. mergeFeature ，用于 Memoji 多 effect 共存中主次feature 挂载逻辑&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1450" width="520" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="OM-2J8mVCJK_r0Ni2DIO-96" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;buildChainV2 主逻辑&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="273" y="1456" width="150" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
