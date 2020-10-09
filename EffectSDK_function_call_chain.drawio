@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-09-20T07:05:13.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="nCAgm24Bv-cjz5xIriW2" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T04:08:57.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="v7dk2ST--myRSWIKduL_" version="13.7.4" type="github">
   <diagram id="S2lVZ_AY6D0ffEM8kNPP" name="Page-1">
-    <mxGraphModel dx="6190" dy="2983" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4008" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1400" y="2050" width="340" height="432" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-205" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=5;fillColor=#d5e8d4;" parent="1" vertex="1">
@@ -409,8 +409,8 @@
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-106" value="_checkComposerEffectResExistOrLoaded&lt;br&gt;RenderManager::&lt;br&gt;参数：无&lt;br&gt;检查C槽区effect是否有效" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-590" y="1620" width="300" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6P7k_oFCu2A5ri-oF5Yv-104" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;检查buildIn 及 C槽区 effect 是否需要更新？RenderManager::m_ShouldRebuildChain = true ：&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;none&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-260" y="1470" width="240" height="60" as="geometry" />
+        <mxCell id="6P7k_oFCu2A5ri-oF5Yv-104" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;检查buildIn 及B/C槽区 effect 是否需要更新？RenderManager::m_ShouldRebuildChain = true ：&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;none&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="1470" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="wtXymxYHKPod9JYcDsyk-28" target="6P7k_oFCu2A5ri-oF5Yv-104" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -488,7 +488,7 @@
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-138" target="6P7k_oFCu2A5ri-oF5Yv-140" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-138" target="UD57GQTYyrQhU4ycjeV2-15">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-138" target="UD57GQTYyrQhU4ycjeV2-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-138" value="更新effectmanager管理的算法Requirement" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -547,6 +547,9 @@
           <mxGeometry x="1820" y="1857" width="340" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-152" target="6P7k_oFCu2A5ri-oF5Yv-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ah1Y2Np-Znn_RsESn9sr-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-152" target="ah1Y2Np-Znn_RsESn9sr-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-152" value="&lt;span&gt;execute&lt;br&gt;AlgorithmTask::&lt;br&gt;参数：无&lt;br&gt;执行当前算法任务，下沉具体算法 xxxTask，生成算法结果并注册算法结果触发事件。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -678,89 +681,92 @@
         <mxCell id="zsSVkJPb638QE2jcnx0w-7" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;setConfig&lt;br style=&quot;font-size: 11px&quot;&gt;&lt;/font&gt;BEFEffect::&lt;br style=&quot;font-size: 11px&quot;&gt;参数：Effect_ptr, effectManager&amp;nbsp;&lt;br style=&quot;font-size: 11px&quot;&gt;设置effect相关参数，其中包括初始化序列帧管理模块image2DManger，其由BEFEffect持有。&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-673" y="1754" width="203" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-1" value="renderChain中的feature[i]开始渲染，然后将结果setInputTexture为feature[i+1]等与feature[i]存在link关系的后续feature，并对后续feature 重复 procesNewFrame进行渲染，实现对渲染链RenderChain的遍历" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-1" value="renderChain中的feature[i]开始渲染，然后将结果setInputTexture为feature[i+1]等与feature[i]存在link关系的后续feature，并对后续feature 重复 procesNewFrame进行渲染，实现对渲染链RenderChain的遍历" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1470" y="1854" width="200" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wtXymxYHKPod9JYcDsyk-74" target="UD57GQTYyrQhU4ycjeV2-1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wtXymxYHKPod9JYcDsyk-74" target="UD57GQTYyrQhU4ycjeV2-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1389.9988235294127" y="1929.94" as="sourcePoint" />
             <mxPoint x="1494.94" y="1839.94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-4" target="UD57GQTYyrQhU4ycjeV2-5">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UD57GQTYyrQhU4ycjeV2-4" target="UD57GQTYyrQhU4ycjeV2-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-4" value="&lt;br&gt;RenderManager::buildChainV2 中对m_Renderchain 前后的 feature 构建了 target link 关系&lt;br&gt;m_RenderChain[i] -&amp;gt; addTarget(m_RenderChain[i+1], 0)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-4" value="&lt;br&gt;RenderManager::buildChainV2 中对m_Renderchain 前后的 feature 构建了 target link 关系&lt;br&gt;m_RenderChain[i] -&amp;gt; addTarget(m_RenderChain[i+1], 0)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1475" y="2103" width="200" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-5" value="RenderManager::doRender() 进入渲染链执行，其中只对 m_RenderChain[0] 调用其 draw 函数，这是因为在draw 函数执行过程中会跳往 processNewFrame，并在其中进行notifyAllTarget 操作， 它会 基于 target link 关系，把当前target的渲染输出结果 m_pOutputText 通过 SetInputTexture 设置到下一个有link关系的 Target 以作为其输入，然后再次执行该 linked target 的 processNewFrame渲染操作... 不断重复直至所有 target 渲染完成。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-5" value="RenderManager::doRender() 进入渲染链执行，其中只对 m_RenderChain[0] 调用其 draw 函数，这是因为在draw 函数执行过程中会跳往 processNewFrame，并在其中进行notifyAllTarget 操作， 它会 基于 target link 关系，把当前target的渲染输出结果 m_pOutputText 通过 SetInputTexture 设置到下一个有link关系的 Target 以作为其输入，然后再次执行该 linked target 的 processNewFrame渲染操作... 不断重复直至所有 target 渲染完成。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1430" y="2291" width="290" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1375" y="2580" width="390" height="820" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-7" target="UD57GQTYyrQhU4ycjeV2-1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-7" target="UD57GQTYyrQhU4ycjeV2-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1335" y="2031.75" as="sourcePoint" />
             <mxPoint x="1475" y="1958.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-11" value="&lt;font style=&quot;font-size: 23px&quot;&gt;渲染链执行overall&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-11" value="&lt;font style=&quot;font-size: 23px&quot;&gt;渲染链执行overall&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1410" y="2062" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="UD57GQTYyrQhU4ycjeV2-7">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="UD57GQTYyrQhU4ycjeV2-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1570" y="2580" as="sourcePoint" />
             <mxPoint x="1520" y="2500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-13" value="&lt;font style=&quot;font-size: 23px&quot;&gt;渲染链details&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-13" value="&lt;font style=&quot;font-size: 23px&quot;&gt;渲染链details&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1375" y="2600" width="155" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-15" target="wtXymxYHKPod9JYcDsyk-33">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="UD57GQTYyrQhU4ycjeV2-15" target="wtXymxYHKPod9JYcDsyk-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-15" value="beforeRender&lt;br&gt;RenderManager::&lt;br&gt;参数：src_textureId, src_textureBuffer, dst_id, dst_buffer, image_width/image_height, renderInfo&lt;br&gt;设置渲染链输出纹理buffer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-15" value="beforeRender&lt;br&gt;RenderManager::&lt;br&gt;参数：src_textureId, src_textureBuffer, dst_id, dst_buffer, image_width/image_height, renderInfo&lt;br&gt;设置渲染链输出纹理buffer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="696.07" y="1550" width="277.87" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-18" target="UD57GQTYyrQhU4ycjeV2-19">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-18" target="UD57GQTYyrQhU4ycjeV2-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-18" value="1.&lt;br&gt;&amp;nbsp;renderManager::processTexutre 函数中会执行 beforeRender 预处理，对当前 RenderChain 的头 target 和 尾 target 分别设置输入纹理和输出纹理 m_pOutputTexture；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-18" value="1.&lt;br&gt;&amp;nbsp;renderManager::processTexutre 函数中会执行 beforeRender 预处理，对当前 RenderChain 的头 target 和 尾 target 分别设置输入纹理和输出纹理 m_pOutputTexture；" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="2630" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-19" target="UD57GQTYyrQhU4ycjeV2-20">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-19" target="UD57GQTYyrQhU4ycjeV2-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-19" value="2.&lt;br&gt;具体的输出纹理设置走到 BEFProtocol::setOutputTexture 中，在其中通过 renderEngine 生成渲染 TextureTarget，可以理解它是 openGL最终渲染输出的纹理 buffer，把这个buffer与输出纹理地址 m_pOutputTexture绑定;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-19" value="2.&lt;br&gt;具体的输出纹理设置走到 BEFProtocol::setOutputTexture 中，在其中通过 renderEngine 生成渲染 TextureTarget，可以理解它是 openGL最终渲染输出的纹理 buffer，把这个buffer与输出纹理地址 m_pOutputTexture绑定;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="2740" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-20" target="UD57GQTYyrQhU4ycjeV2-22">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-20" target="UD57GQTYyrQhU4ycjeV2-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-20" value="3.&lt;br&gt;绑定GL输出纹理后，在每一帧 doRender 中，对当前渲染链节点执行 feature 级别 draw 后， openGL会更新输出buffer，然后向后续渲染target 广播 notifyAllTarget；" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-20" value="3.&lt;br&gt;绑定GL输出纹理后，在每一帧 doRender 中，对当前渲染链节点执行 feature 级别 draw 后， openGL会更新输出buffer，然后向后续渲染target 广播 notifyAllTarget；" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="2850" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-22" target="UD57GQTYyrQhU4ycjeV2-23">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-22" target="UD57GQTYyrQhU4ycjeV2-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-22" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;4.&lt;br&gt;在notifyAllTarget 中，当前节点会首先拿与 openGL 输出buffer 绑定的m_pOutputTexture，也就是当前节点的输出，然后将其设置给后续的 linked 节点作为它们的输入（一般链式只有一个linked节点）；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-22" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;4.&lt;br&gt;在notifyAllTarget 中，当前节点会首先拿与 openGL 输出buffer 绑定的m_pOutputTexture，也就是当前节点的输出，然后将其设置给后续的 linked 节点作为它们的输入（一般链式只有一个linked节点）；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="2960" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-23" target="UD57GQTYyrQhU4ycjeV2-26">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-23" target="UD57GQTYyrQhU4ycjeV2-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-23" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;5.&lt;br&gt;后续节点拿到输入 texture 后，重新进行 processNewFrame-&amp;gt;...-&amp;gt; draw 进行后续节点各自的渲染工作；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-23" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;5.&lt;br&gt;后续节点拿到输入 texture 后，重新进行 processNewFrame-&amp;gt;...-&amp;gt; draw 进行后续节点各自的渲染工作；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="3070" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UD57GQTYyrQhU4ycjeV2-26" target="UD57GQTYyrQhU4ycjeV2-28">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UD57GQTYyrQhU4ycjeV2-26" target="UD57GQTYyrQhU4ycjeV2-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-26" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;6.&lt;br&gt;重复上述过程 3-5 直到渲染链遍历结束；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-26" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;6.&lt;br&gt;重复上述过程 3-5 直到渲染链遍历结束；&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="3180" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="UD57GQTYyrQhU4ycjeV2-28" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;7.&lt;br&gt;doRender结束会执行一次afterRender 用于执行 imageManager / textureManager 相关的内存释放清理。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UD57GQTYyrQhU4ycjeV2-28" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;7.&lt;br&gt;doRender结束会执行一次afterRender 用于执行 imageManager / textureManager 相关的内存释放清理。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1455" y="3290" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ah1Y2Np-Znn_RsESn9sr-2" value="&lt;span&gt;SetResult&lt;br&gt;xxxAlgorithm::&lt;br&gt;参数：CBundle &amp;amp; result&lt;br&gt;task 生成的算法结果setHandle压入当前帧的 bundle，等待后续被getHandle取用。&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="1867" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
