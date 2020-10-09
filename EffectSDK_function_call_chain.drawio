@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T04:08:57.456Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="v7dk2ST--myRSWIKduL_" version="13.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T12:10:02.041Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="q5OgxMB45Fkajtgrxib3" version="13.7.4" type="github">
   <diagram id="S2lVZ_AY6D0ffEM8kNPP" name="Page-1">
     <mxGraphModel dx="4008" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-64" value="createFeature&lt;br&gt;BEFFeatureFactory::&lt;br&gt;参数：string&amp;amp; featureName&lt;br&gt;effect_sdk初始化时完成了所有feature初始化和注册并存入注册列表，从列表中获取对应feature。&lt;br&gt;注：featureName传参前经历过一次转换，把已废弃的feature名字转换为新的兼容feature名称，如3dv3-&amp;gt;Amazing3dv3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-250" y="2040" width="330" height="120" as="geometry" />
+          <mxGeometry x="-280" y="2020" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6P7k_oFCu2A5ri-oF5Yv-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6P7k_oFCu2A5ri-oF5Yv-67" target="6P7k_oFCu2A5ri-oF5Yv-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
