@@ -1,1 +1,194 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T09:08:51.397Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" version="14.1.9" etag="N0BqpzuzuK7p8ScnfeFQ" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-28T11:15:26.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="hFKwJvMQQpmPu1a6ywbS" version="14.1.9" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2354" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-0" value="ARSessionSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="100" width="220" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-1" value="vector mSubSystems :子system列表, ARCameraTrackingSystem / ARInteractionSystem / ARAnchorableSystem &#xa;ARSessionWrapper* mSession : 主调对象， ARKit/ARCore/NailSlam&#xa;ARSessionComponent* mSessionComponent :  session组件  " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-0">
+          <mxGeometry y="26" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-0">
+          <mxGeometry y="80" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-3" value="onUpdate&#xa;onEvent 透传子 system onEvent&#xa;onNotifyComponentAdded 透传子system&#xa;onNotifyComponentRemoved 透传子system" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-0">
+          <mxGeometry y="88" width="220" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-4" value="onUpdate&lt;br&gt;通过全局ARController实例生成 mSession 并注入 mSessionCompoent；&lt;br&gt;透传 mSubSystems 各自 onUpdate" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-90" y="194" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-5" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-3" target="oJ_Oj_Q1dWwSlwXZOIH1-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-9" value="ARCameraTrackingSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-70" y="320" width="220" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-10" value="vecotor&lt;Camera*&gt; mArcameraList ARcamera列表&#xa;ARSessionComponent* mArSessionComponet&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-9">
+          <mxGeometry y="26" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-9">
+          <mxGeometry y="80" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-12" value="onUpdate&#xa;onEvent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-9">
+          <mxGeometry y="88" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-13" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0.497;exitY=0.975;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-3" target="oJ_Oj_Q1dWwSlwXZOIH1-9">
+          <mxGeometry x="-0.7843" y="-10" relative="1" as="geometry">
+            <mxPoint x="280" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="280" />
+              <mxPoint x="40" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-14" value="ARInteractionSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="320" width="340" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-15" value="ARSessionComponent* mSessionComponent :  session组件  &#xa;ARCameraComponent* mCameraCompoent&#xa;AMGARHitTestResultTask* mHitTestTask&#xa;&#xa;Vector mTappableComponents&#xa;Vector mScaleableComponents&#xa;Vector mRotationComponents&#xa;Vector mMoveableComponents&#xa;&#xa;ARTapGesture mTapGesture&#xa;MoveGesture mMoveGesture&#xa;RotationGesture mRotateGesture&#xa;PinchGesture mPinchGesture&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-14">
+          <mxGeometry y="26" width="340" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-14">
+          <mxGeometry y="80" width="340" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-17" value="onUpdate&#xa;onEvent&#xa;private: 以下handle函数用户模拟 lua 逻辑&#xa;  handleTapGesture&#xa;  handleMoveGesture&#xa;  handleRotationGesture&#xa;  handlePinchGesture&#xa;  handlePinchWhenTouchBegin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-14">
+          <mxGeometry y="88" width="340" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-18" value="ARAnchorableSystem" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="630" y="310" width="220" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-19" value="Vector ARAnchorableComponent mTrackalbeComponentList&#xa;ARSessionComponent* mArSessionComponent&#xa;Vector mPins 用于绑定算法Anchor以更新 ARAnchorableCompent 位姿，onUpdate每帧重绑" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-18">
+          <mxGeometry y="26" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-20" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-18">
+          <mxGeometry y="80" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-21" value="onUpdate&#xa;onEvent" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-18">
+          <mxGeometry y="88" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-23" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.583;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-3" target="oJ_Oj_Q1dWwSlwXZOIH1-14">
+          <mxGeometry x="-0.7894" y="-8" relative="1" as="geometry">
+            <mxPoint x="379" y="280" as="sourcePoint" />
+            <mxPoint x="130" y="341.8" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="378" y="302" />
+              <mxPoint x="415" y="302" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-24" value="onUpdate&lt;br&gt;从 mArSessionComponent获取 mSession 主调对象，&lt;br&gt;从mSession 后端获取 camera 矩阵并设置到ARCamera" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-410" y="398" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-25" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-12" target="oJ_Oj_Q1dWwSlwXZOIH1-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-40" y="524" as="sourcePoint" />
+            <mxPoint x="-160.00000000000023" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-26" value="onUpdate&lt;br&gt;&lt;div&gt;&lt;span&gt;手势事件通过onEvent注入，模拟lua逻辑走入各自handle函数，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;最后更新&lt;/span&gt;&lt;font face=&quot;Menlo&quot;&gt;&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 252 , 229)&quot;&gt;&amp;nbsp;mTappableCompoents 列表所有组件 state&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-220" y="500" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-27" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=-0.008;exitY=0.078;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-17" target="oJ_Oj_Q1dWwSlwXZOIH1-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="320" y="468" as="sourcePoint" />
+            <mxPoint x="230" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-28" value="handleTapGesture&lt;br&gt;&lt;div&gt;模拟rayCast函数，通过mSession 后端获取 HitTest结果并&lt;/div&gt;&lt;div&gt;更新 mTappableCmpents 列表所有组件 state&lt;/div&gt;" style="html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-80" y="600" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-29" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;exitX=-0.001;exitY=0.305;exitDx=0;exitDy=0;entryX=0.419;entryY=0.006;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-17" target="oJ_Oj_Q1dWwSlwXZOIH1-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="351.9599999999996" y="458.0000000000001" as="sourcePoint" />
+            <mxPoint x="220" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-30" value="&lt;br&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oJ_Oj_Q1dWwSlwXZOIH1-18">
+          <mxGeometry x="-0.773" y="10" relative="1" as="geometry">
+            <mxPoint x="388" y="260" as="sourcePoint" />
+            <mxPoint x="425" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="388" y="280" />
+              <mxPoint x="740" y="280" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-31" value="ARSessionWrapper" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="827" y="100" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-32" value="IRootABBackend* mBackend 后端算法能力，ARKit/ARCore/NailSlam，提供对外接口" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-31">
+          <mxGeometry y="26" width="220" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-33" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-31">
+          <mxGeometry y="60" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-34" value="各sdk对外接口透传" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-31">
+          <mxGeometry y="68" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-35" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oJ_Oj_Q1dWwSlwXZOIH1-1" target="oJ_Oj_Q1dWwSlwXZOIH1-31">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="560" y="240" as="sourcePoint" />
+            <mxPoint x="720" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-37" value="ARController（类似全局对象）" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="900" y="320" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-38" value="ARRootBackendeFactoryInterface* mBackEndFactory ： 具体backend实例工厂&#xa;set &lt;ARSessionWrapper*&gt; mSessions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-37">
+          <mxGeometry y="26" width="220" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-39" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-37">
+          <mxGeometry y="60" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-40" value="buildSessionWithConfig ：调用mBackEndFactory-&gt;requesetARBackendWithConfig&#xa;创建 ARSessionWrapper实例&#xa;onUpdate() ： 算法后端通过此ARController 接口对 mSessions 注入算法 Frame" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-37">
+          <mxGeometry y="68" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-41" value="EffectManager::init()中：&lt;br&gt;构建&amp;nbsp;&lt;span style=&quot;background-color: rgb(255 , 252 , 229) ; color: rgb(180 , 69 , 0) ; font-family: &amp;#34;menlo&amp;#34; ; font-size: 11px&quot;&gt;SingleSceneARBackendManager&lt;/span&gt;&lt;span&gt;&amp;nbsp;实例并以此构建 ARController 实例，通过befContext将ARController 实例注入作为全局对象等待ARSessionSytem onUpdate call_once 调用&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="544" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-46" value="ARRootBackendeFactoryInterface(接口基类)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="310" width="270" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-48" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-46">
+          <mxGeometry y="26" width="270" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-50" value="SingleSceneARBackendManager" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1220" y="398" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-51" value="IRootARBackend* mNailSlamSessions&#xa;IRootARBackend* mARKitSession&#xa;IRootARBackend* mARCoreSession&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-50">
+          <mxGeometry y="26" width="220" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-52" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-50">
+          <mxGeometry y="80" width="220" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-53" value="requestARBackendWithConfig： 生成backend" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="oJ_Oj_Q1dWwSlwXZOIH1-50">
+          <mxGeometry y="88" width="220" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-54" value="" style="endArrow=block;html=1;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1320" y="398" as="sourcePoint" />
+            <mxPoint x="1320" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJ_Oj_Q1dWwSlwXZOIH1-55" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="oJ_Oj_Q1dWwSlwXZOIH1-46">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="1120" y="356.1" as="sourcePoint" />
+            <mxPoint x="1473.92" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1170" y="356" />
+              <mxPoint x="1170" y="327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
