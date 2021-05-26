@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T08:02:51.313Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="BldXbRex5EyuJA9vmAq_" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T09:10:06.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="mWgndKphlFVQlXKE3hij" version="14.6.13" type="github">
   <diagram id="1ifoKKJXksdBjyNbpdKP" name="Page-1">
-    <mxGraphModel dx="2125" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1722" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,10 +110,22 @@
           <mxGeometry x="-340" y="480" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-46" value="&lt;h1&gt;Backend&lt;/h1&gt;&lt;div&gt;算法或云服务后端，被Manager创建，并通过Wrapper对外封装。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用法上任意定制化，但对外壳应该统一 成黑箱？&lt;/div&gt;&lt;div&gt;比如一个形变算法，包含算法构造，参数输入，结果输出；输入和输出，针对不同算法完全不同。&lt;/div&gt;&lt;div&gt;输入需要从算法线程获取，&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="650" width="190" height="150" as="geometry" />
+          <mxGeometry x="-370" y="650" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-47" value="&lt;h1&gt;AEAlgorithmManager&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="830" width="280" height="70" as="geometry" />
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-48" value="&lt;h1&gt;lua&lt;/h1&gt;&lt;div&gt;脚本开启算法或云服务&lt;/div&gt;&lt;div&gt;参数控制是否常开算法&lt;/div&gt;&lt;div&gt;脚本获取算法结果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;算法无依赖，顺序执行&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="860" width="190" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-50" value="GiServiceSystem&lt;br&gt;&lt;br&gt;&lt;br&gt;GiServiceComponent" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="50" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-51" value="girock库接入" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="120" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-52" value="头文件&lt;br&gt;不同的算法类型有不同的接口，没法统一" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="185" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-53" value="后端引入算法头文件，针对不同的算法类型接入，这不是和bach重复了？&lt;br&gt;怎么封装 girock？&lt;br&gt;可能还是得手动接入一遍，提供buffer调度机制。&lt;br&gt;接入后如何统一wrapper层接口？" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="255" width="210" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
