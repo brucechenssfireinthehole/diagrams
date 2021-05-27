@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T09:10:06.955Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="mWgndKphlFVQlXKE3hij" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T15:05:53.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36" etag="iPPqsz0gngBSqYm5IyLl" version="14.6.13" type="github">
   <diagram id="1ifoKKJXksdBjyNbpdKP" name="Page-1">
-    <mxGraphModel dx="1722" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3181" dy="2065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,23 +97,33 @@
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-38" value="ECS" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="-310" y="-60" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-40" value="&lt;h1&gt;ECS&lt;/h1&gt;&lt;p&gt;1. 通过BEFContext::instance 获取girock controller&lt;/p&gt;&lt;p&gt;2. 本地开启必要服务&lt;/p&gt;&lt;p&gt;3. 脚本注入开启需要的算法backend和服务，component中管理sessionWrapper用于包裹算法backend或服务，供system调用&lt;/p&gt;&lt;p&gt;4. 算法结果RTTI到lua&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-40" value="&lt;h1&gt;ECS&lt;/h1&gt;&lt;p&gt;1. 通过BEFContext::instance 获取girock controller&lt;/p&gt;&lt;p&gt;2. 本地开启必要服务&lt;/p&gt;&lt;p&gt;3. 脚本注入开启需要的算法backend和服务，&lt;/p&gt;&lt;p&gt;4. 算法结果RTTI到lua&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-320" y="10" width="280" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-41" value="&lt;h1&gt;Controller&lt;/h1&gt;&lt;p&gt;Effect 和 girock 之间 bridge，作为girock服务管理入口，管理算法backend及服务工厂，持有算法工厂 基类 unique_ptr，外部构造该工厂子类，controller构造时作为参数注入&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="220" width="210" height="130" as="geometry" />
+          <mxGeometry x="-330" y="185" width="210" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-43" value="&lt;h1&gt;Manager&lt;/h1&gt;&lt;div&gt;BackendManager具体manager子类，继承算法工厂基类，管理不同入口：如算法构建/云服务架构...&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="350" width="190" height="120" as="geometry" />
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-41" target="UuJ1qdc-aY3ee8Mtvgij-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-255" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-44" value="&lt;h1&gt;Wrapper层&lt;/h1&gt;&lt;div&gt;具体算法backend或服务的壳，继承相同基类，controller创建算法backend或服务时，构造wrapper并注入backend或服务指针。统一接口对外壳类，用于system中调用。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-340" y="480" width="190" height="150" as="geometry" />
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-41" target="UuJ1qdc-aY3ee8Mtvgij-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-254.9411764705883" y="420" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-46" value="&lt;h1&gt;Backend&lt;/h1&gt;&lt;div&gt;算法或云服务后端，被Manager创建，并通过Wrapper对外封装。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用法上任意定制化，但对外壳应该统一 成黑箱？&lt;/div&gt;&lt;div&gt;比如一个形变算法，包含算法构造，参数输入，结果输出；输入和输出，针对不同算法完全不同。&lt;/div&gt;&lt;div&gt;输入需要从算法线程获取，&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="650" width="190" height="190" as="geometry" />
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-44" target="UuJ1qdc-aY3ee8Mtvgij-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-44" value="&lt;h1&gt;Wrapper层&lt;/h1&gt;&lt;div&gt;具体算法backend或服务的壳，继承相同基类，controller创建算法backend或服务时，构造wrapper并注入backend或服务指针。生成算法结果注入service管理容器，等待 lua/system-&amp;gt;manager-&amp;gt;service调用&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="630" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-46" value="&lt;h1&gt;Backend&lt;/h1&gt;&lt;div&gt;算法或云服务后端，被Local/Cloud Service 创建，并通过Wrapper对外封装。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;用法上任意定制化，但对外壳应该统一 成黑箱？&lt;/div&gt;&lt;div&gt;比如一个形变算法，包含算法构造，参数输入，结果输出；输入和输出，针对不同算法完全不同。&lt;/div&gt;&lt;div&gt;输入需要从算法线程获取，&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="810" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-48" value="&lt;h1&gt;lua&lt;/h1&gt;&lt;div&gt;脚本开启算法或云服务&lt;/div&gt;&lt;div&gt;参数控制是否常开算法&lt;/div&gt;&lt;div&gt;脚本获取算法结果&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;算法无依赖，顺序执行&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="860" width="190" height="190" as="geometry" />
+          <mxGeometry x="-680" y="394.5" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-50" value="GiServiceSystem&lt;br&gt;&lt;br&gt;&lt;br&gt;GiServiceComponent" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-630" y="50" width="200" height="60" as="geometry" />
@@ -125,7 +135,49 @@
           <mxGeometry x="-630" y="185" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UuJ1qdc-aY3ee8Mtvgij-53" value="后端引入算法头文件，针对不同的算法类型接入，这不是和bach重复了？&lt;br&gt;怎么封装 girock？&lt;br&gt;可能还是得手动接入一遍，提供buffer调度机制。&lt;br&gt;接入后如何统一wrapper层接口？" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-660" y="255" width="210" height="120" as="geometry" />
+          <mxGeometry x="-675" y="255" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-56" target="UuJ1qdc-aY3ee8Mtvgij-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-56" value="&lt;h1&gt;Local Service&lt;/h1&gt;&lt;div&gt;算法服务，提供算法结果注入，常驻算法和非常驻算法管理，资源容灾&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-465" y="480" width="203" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-60" target="UuJ1qdc-aY3ee8Mtvgij-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-60" value="&lt;h1&gt;Cloud Service&lt;/h1&gt;&lt;div&gt;云算法服务，提供云算法调度&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="480" width="203" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-63" value="&lt;h1&gt;GIServiceBuffer&lt;/h1&gt;&lt;div&gt;算法service结果基类，用于具体算法继承关系&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="720" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-64" target="UuJ1qdc-aY3ee8Mtvgij-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-64" value="&lt;h1&gt;bbwSerivceBuffer&lt;/h1&gt;&lt;div&gt;buffer类型&lt;/div&gt;&lt;div&gt;权重Vector&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="840" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UuJ1qdc-aY3ee8Mtvgij-65" target="UuJ1qdc-aY3ee8Mtvgij-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-65" value="&lt;h1&gt;ArucoServiceBuffer&lt;/h1&gt;&lt;div&gt;buffer类型&lt;/div&gt;&lt;div&gt;markerID&lt;/div&gt;&lt;div&gt;marker数量&lt;/div&gt;&lt;div&gt;marker pose&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="840" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-68" value="&lt;h1&gt;GISerivceResult&lt;/h1&gt;&lt;p&gt;addResult() 注入算法结果buffer&lt;/p&gt;&lt;p&gt;getArucoInfo() 获取算法结果&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="620" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-69" value="&lt;h1&gt;GISerivceLocalService&lt;/h1&gt;&lt;div&gt;管理算法创建销毁&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;持有GISerivceResult指针，管理算法结果增删&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;对本地算法，管理常驻算法容器&lt;/div&gt;&lt;div&gt;管理单帧算法容器&lt;/div&gt;&lt;div&gt;controller每帧注入纹理，管理常驻算法调度链路&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1285" y="610" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-70" value="&lt;h1&gt;bbwSerivce/ArucoService&lt;/h1&gt;&lt;div&gt;具体算法封装，提供query和onUpdate链路，算法结果注入GIServiceResult中&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1300" y="770" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-71" value="&lt;h1&gt;Wrapper层&lt;/h1&gt;&lt;div&gt;意义不明，暂时不用&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1260" y="890" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UuJ1qdc-aY3ee8Mtvgij-72" value="&lt;h1&gt;GISeriveController&lt;/h1&gt;&lt;div&gt;分发onupdateFrame数据&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1245" y="460" width="210" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
